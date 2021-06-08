@@ -1,0 +1,5 @@
+venv/
+.env
+**/__pycahe__/
+config.py
+data/
